@@ -9,3 +9,5 @@ def fibonacci(x):
         return Fibonacci(x-1) + Fibonacci(x-2)
  
 print(fibonacci(9))
+#output
+34
